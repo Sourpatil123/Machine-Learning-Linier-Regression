@@ -6,7 +6,6 @@ This repository contains implementations of **Linear Regression** using Python a
 
 ## 📊 Algorithms
 - Linear Regression
-- 
 ## 📈 Features
 - Data preprocessing
 - Model training and evaluation (R² score, MSE)
